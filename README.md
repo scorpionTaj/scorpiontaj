@@ -4,15 +4,11 @@ I build AI-driven systems that turn data into real results. My work spans machin
 
 ---
 
-## Current Role
+## Past Experience
 
 - **AI Developer (Intern) @ XAI**  
-  *(Aug 2025 – Present)*  
+  *(Aug 2025 – Oct 2025)*  
   Building a sovereign AI gateway with FastAPI, Next.js, and containerized LLMs.  
-
----
-
-## Past Experience
 
 - **Board Member @ Moroccan Data Scientists**  
   Promoting data science, open data, and research initiatives across Morocco.  
