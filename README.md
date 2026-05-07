@@ -6,6 +6,10 @@ I build AI-driven systems that turn data into real results. My work spans machin
 
 ## Past Experience
 
+- **Data Science & AI Engineering (Intern) @ OCP S.A.**
+  *(Apr 2026 - Present)*
+  
+
 - **AI Developer (Intern) @ XAI**  
   *(Aug 2025 – Oct 2025)*  
   Building a sovereign AI gateway with FastAPI, Next.js, and containerized LLMs.  
