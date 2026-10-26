@@ -6,7 +6,7 @@
 
 # Hi 👋, I'm Tajeddine Bourhim
 
-### Data & AI Engineer · ML, deep learning, LLMs and MLOps
+### AI & Data Engineer · LLM apps, RAG, MCP, deep learning and MLOps
 
 <img src="https://github.com/scorpionTaj.png" alt="Tajeddine Bourhim" width="150" height="150" style="border-radius: 50%;" />
 
